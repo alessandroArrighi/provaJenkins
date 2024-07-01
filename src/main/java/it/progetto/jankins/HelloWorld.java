@@ -1,4 +1,4 @@
-package main.java.it.progetto.jankins;
+package it.progetto.jankins;
 
 public class HelloWorld {
 
